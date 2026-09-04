@@ -1,28 +1,10 @@
-# The Experience Co. Website
+# The Experience Co. — Website
 
-GitHub-ready static website for The Experience Co.
+This version preserves the existing website wording and layout, with the approved image/icon updates and the client intake button connected to the live Google Form.
 
-## Before publishing
-1. Replace `YOUR_GOOGLE_FORM_URL_HERE` in `index.html` with your Google Forms client intake URL.
-2. Replace the text logo in the header/footer with the approved logo image when you have the final logo asset.
-3. Update contact details if you want them displayed.
+## Button connection
 
-## GitHub Pages
-Upload `index.html`, `styles.css`, and `script.js` to the root of a new repository. Then use:
-Settings → Pages → Deploy from branch → main → /(root)
+**Complete Client Intake** opens the Google Form in a new tab:
+https://docs.google.com/forms/d/e/1FAIpQLSepHl7f32tzei_dflgCi_m9HSZ_e7A7Jr3camNQJg6YPwMxkw/viewform?usp=header
 
-No build process is required.
-
-## Brand
-Deep Green `#254940`
-Black `#121212`
-Gold `#C9A658`
-Cream `#F8F4EE`
-Taupe `#DED6CC`
-
-Typography: Playfair Display + DM Sans.
-
-The design is intentionally minimal and editorial, with restrained geometry and generous whitespace.
-
-
-Image adjustment: the customer/worker photo is now centered and displayed wider on desktop (1150px) so it is not pushed to the right or visually cut off. Mobile remains full-width.
+No other button destinations were changed in this update.
