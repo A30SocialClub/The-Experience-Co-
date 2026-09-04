@@ -23,3 +23,6 @@ Taupe `#DED6CC`
 Typography: Playfair Display + DM Sans.
 
 The design is intentionally minimal and editorial, with restrained geometry and generous whitespace.
+
+
+Image adjustment: the customer/worker photo is now centered and displayed wider on desktop (1150px) so it is not pushed to the right or visually cut off. Mobile remains full-width.
